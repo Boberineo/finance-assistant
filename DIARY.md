@@ -1,5 +1,6 @@
 # Developer's Diary
-1. Notebook Created
+
+Notebook Created
 
 So I'm going to try and get this A2 project done quickly since my schedule is super backed up. I'll make a spending analyzer for a uni student. Upload a month of transactions, see totals and percentages per category, and chat with a Gemini finance assistant about the results. This is closest to what I've already done in previous modules so it’s achievable in the time I got.
 

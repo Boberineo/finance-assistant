@@ -1,0 +1,4 @@
+date,category,amount,description
+2026-09-01,Income,300.00,Wages
+2026-09-02,Groceries,-20.00,Aldi
+2026-09-07,Going Out,-1,000.00,Comma breaks the row

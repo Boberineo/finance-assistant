@@ -1,1 +1,7 @@
-
+date,category,amount,description
+2026-09-01,Income,300.00,Wages
+2026-09-02,Groceries,-20.00,Aldi
+2026-09-03,Takeaway,twelve,Typed the word by mistake
+2026-09-04,Transport,,Blank amount
+2026-09-05,Groceries,-$5.00,Dollar sign from a copy-paste
+2026-09-06,,-8.00,No category given
